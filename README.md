@@ -1,5 +1,5 @@
 # cnrsLogo
-A processing interactive demo exploring CNRS logo.
+A Processing interactive demo exploring CNRS logo.
 
 Based on https://arxiv.org/abs/0810.3082 by Didier Henrion.
 
