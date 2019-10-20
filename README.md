@@ -12,4 +12,4 @@ Installation:
 * Unzip and rename folder as CNRS_logo. (remove '-master' from the folder name)
 * Start Processing, open CNRS_logo/CNRS_logo.pde, and press play.
 
-[![](https://github.com/mutterer/cnrsLogo/raw/master/Screen%20Shot%202019-10-20%20at%2001.22.02.png)](https://github.com/mutterer/cnrsLogo/raw/master/Screen%20Shot%202019-10-20%20at%2001.22.02.png)
+[![](https://github.com/mutterer/cnrsLogo/raw/master/screenshot.png)](https://github.com/mutterer/cnrsLogo/raw/master/screenshot.png)
